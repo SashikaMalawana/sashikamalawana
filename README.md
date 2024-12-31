@@ -27,6 +27,8 @@ Dynamic, self motivated and hard working senior software engineer who skilled in
 <!--
 below code get from ayoub github profile
 https://github.com/aitdahmane/aitdahmane/blob/master/README.md
+
+icon - https://www.vectorlogo.zone/?q=type
 -->
 
 <p>
@@ -56,7 +58,7 @@ https://github.com/aitdahmane/aitdahmane/blob/master/README.md
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Typescript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/> </a>
 <a href="https://angular.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/> </a>
 <a href="https://legacy.reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://nextjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next Js" width="40" height="40"/> </a>
