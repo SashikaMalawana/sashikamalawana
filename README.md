@@ -55,18 +55,18 @@ https://github.com/aitdahmane/aitdahmane/blob/master/README.md
 <br />
 
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="Javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="Typescript" width="40" height="40"/> </a>
-<a href="https://angular.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" width="40" height="40"/> </a>
-<a href="https://legacy.reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://nextjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="Next Js" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node Js" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express Js" width="40" height="40"/> </a>
-<a href="https://nestjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="Nest Js" width="40" height="40"/> </a>
-<a href="https://www.serverless.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="Serverless" width="40" height="40"/> </a>
-<a href="https://java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Typescript" width="40" height="40"/> </a>
+<a href="https://angular.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/> </a>
+<a href="https://legacy.reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a>
+<a href="https://nextjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next Js" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node Js" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express Js" width="40" height="40"/> </a>
+<a href="https://nestjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest Js" width="40" height="40"/> </a>
+<a href="https://www.serverless.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="Serverless" width="40" height="40"/> </a>
+<a href="https://java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://SpringBoot.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg" alt="AWS" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="AWS" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="40" height="40" /> </a>
 </p>
 <br />
